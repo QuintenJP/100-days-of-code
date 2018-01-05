@@ -8,15 +8,11 @@
 
 **Thoughts:** I am very excited to have found so many resources and the possibility to become part of a professional community.
 
-### Day 2: January 5, 2018)
-#####
+### Day 2: January 5, 2018 ###
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began to learn CSS (cascading style sheets) via freecodecamp.com and continued declarative skills within salesforce.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Thoughts**: I am thoroughly enjoying learning how to code. I am short on time and can't elaborate further.
 
 ### Day 1: June 27, Monday
 
