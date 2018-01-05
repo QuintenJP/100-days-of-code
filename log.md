@@ -2,18 +2,14 @@
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)-->
-Day 1: January 4, 2018
+**Day 1: January 4, 2018**
 
-Today's Progress:
+**Today's Progress:** Learned the format of freecodecamp.com. Created a Github profile. Worked on declarative coding within salesforce.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I am very excited to have found so many resources and the possibility to become part of a professional community.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 5, 2018)
+#####
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
