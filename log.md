@@ -2,7 +2,8 @@
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)-->
-**Day 1: January 4, 2018**
+### Day 1: January 4, 2018
+###
 
 **Today's Progress:** Learned the format of freecodecamp.com. Created a Github profile. Worked on declarative coding within salesforce.
 
