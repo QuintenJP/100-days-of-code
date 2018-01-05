@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<!--### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)-->
+Day 1: January 4, 2018
+
+Today's Progress:
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
